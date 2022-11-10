@@ -16,14 +16,15 @@ This file should also include the SQL script for the Part 3.
 Find a and b, if median=42, mean=50
 20,34, 34,  12, 56, 110, 49, a, b.
 
+ANSWER:
 a = 42
 b = 90
 
 ### Challenge 2
 A car hit an average speed of v1 = 60 kmph in the first half of the journey, and hit an average speed of v2 = 110 kmph in the second half of the journey. Determine the average speed of the car.
 
+ANSWER:
 Average speed of the car = 85 kmph
-
 
 ### Challenge 3
 The lifetimes of 400 light-bulbs were found to the nearest hour. The results were recorded as
@@ -33,7 +34,9 @@ Frequency         143     97      64      51      14      14        17
 Construct a histogram and cumulative frequency polygon for this dataset. Estimate the percentage
 of bulbs with lifetime less than 480 hours.
 
-
+ANSWER:
+Frequency_less_than_480h = 240+((480-399)/200)*64 = 265.92
+percentage_less_than_480h = 265.92/400 = 66.5%
 
 ### Challenge 4
 The time between arrival of 60 patients at an intensive care unit were recorded to the nearest hour.
@@ -42,11 +45,10 @@ Time (hours) 0–19 20–39 40–59 60–79 80–99 100–119 120–139 140–15
 Frequency     16    13    17    4     4      3       1      1       1
 Determine the median, mean and standard deviation for this dataset.
 
-Median = 39.5 + 30 − 29 46 − 29 × 20 = 40.7 hours
-
-Mean = 
-
-Standard Deviation = 
+ANSWER:
+median = 41.2
+mean = 47
+standard deviation = 36.8
 
 
 ## Part 2
@@ -56,7 +58,19 @@ One player rolls two dices. Describe the measurable space and the random variabl
 * B. The sum of the values obtained.
 * C. The maximum value obtained after rolling both dices.
 
-
+ANSWER:
+A
+{(1,1),(1,2),(1,3),(1,4),(1,5),(1,6),(2,1),(2,2),(2,3),(2,4),(2,5),(2,6)...(5,6),(6,6)} definition: (first dice number, second dice number)
+B
+{2,3,4,5,6,7,8,9,10,11,12}
+C
+{12}
+Case A
+{(6,6)}
+Case B
+{2,4,6,8,10,12}
+Case C
+{NaN}
 
 Describe the following events:
 * Case A: Both values are greater than 5.
