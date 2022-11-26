@@ -1,0 +1,189 @@
+﻿working_year,dept_name,gender,avg_sal
+1990,Customer Service,M,56933.5689
+1990,Customer Service,F,55682.8312
+1990,Development,M,58149.7371
+1990,Development,F,55223.1787
+1990,Finance,M,69338.911
+1990,Finance,F,65536.5423
+1990,Human Resources,M,53395.2898
+1990,Human Resources,F,51297.9465
+1990,Marketing,M,70294.7366
+1990,Marketing,F,67709.137
+1990,Production,M,57478.5085
+1990,Production,F,55066.8739
+1990,Quality Management,M,55945.6471
+1990,Quality Management,F,52542.8352
+1990,Research,M,58823.2071
+1990,Research,F,55660.9294
+1990,Sales,M,79620.2636
+1990,Sales,F,77110.0894
+1991,Customer Service,M,56180.0803
+1991,Customer Service,F,53251.9937
+1991,Development,M,57088.436
+1991,Development,F,54428.7998
+1991,Finance,M,64539.4904
+1991,Finance,F,66202.2491
+1991,Human Resources,M,52865.2151
+1991,Human Resources,F,50408.0478
+1991,Marketing,M,69101.1321
+1991,Marketing,F,66648.0496
+1991,Production,M,57008.5847
+1991,Production,F,54769.0505
+1991,Quality Management,M,56583.8616
+1991,Quality Management,F,51657.6482
+1991,Research,M,56950.3805
+1991,Research,F,54985.9898
+1991,Sales,M,79620.6443
+1991,Sales,F,74423.8669
+1992,Customer Service,M,56593.7804
+1992,Customer Service,F,53717.8879
+1992,Development,M,56204.9835
+1992,Development,F,53632.3968
+1992,Finance,M,69313.9159
+1992,Finance,F,62817.5248
+1992,Human Resources,M,52300.2397
+1992,Human Resources,F,50445.1313
+1992,Marketing,M,67809.0687
+1992,Marketing,F,66295.3073
+1992,Production,M,57049.5888
+1992,Production,F,53048.978
+1992,Quality Management,M,53898.1496
+1992,Quality Management,F,51834.4477
+1992,Research,M,55338.0115
+1992,Research,F,53471.8111
+1992,Sales,M,77894.2592
+1992,Sales,F,74550.9364
+1993,Customer Service,M,55422.5056
+1993,Customer Service,F,52795.0007
+1993,Development,M,56009.754
+1993,Development,F,52676.0706
+1993,Finance,M,65470.9564
+1993,Finance,F,62605.8006
+1993,Human Resources,M,51515.9086
+1993,Human Resources,F,49478.4178
+1993,Marketing,M,66678.1417
+1993,Marketing,F,64940.7102
+1993,Production,M,56900.5295
+1993,Production,F,53207.5995
+1993,Quality Management,M,52459.9431
+1993,Quality Management,F,52873.1658
+1993,Research,M,56966.8205
+1993,Research,F,53787.7299
+1993,Sales,M,77200.5611
+1993,Sales,F,74804.9284
+1994,Customer Service,M,55938.6364
+1994,Customer Service,F,49449.9207
+1994,Development,M,54231.0307
+1994,Development,F,52290.1998
+1994,Finance,M,64492.7099
+1994,Finance,F,64420.3859
+1994,Human Resources,M,49759.5309
+1994,Human Resources,F,49405.9379
+1994,Marketing,M,65862.1768
+1994,Marketing,F,61867.8753
+1994,Production,M,54398.8738
+1994,Production,F,51030.0546
+1994,Quality Management,M,53099.96
+1994,Quality Management,F,48723.5179
+1994,Research,M,55657.0763
+1994,Research,F,51519.3296
+1994,Sales,M,77335.098
+1994,Sales,F,72093.3917
+1995,Customer Service,M,53918.5892
+1995,Customer Service,F,51845.1441
+1995,Development,M,54585.5842
+1995,Development,F,50770.3056
+1995,Finance,M,66851.9657
+1995,Finance,F,61741.452
+1995,Human Resources,M,51335.2047
+1995,Human Resources,F,47609.6108
+1995,Marketing,M,67032.4287
+1995,Marketing,F,65809.5336
+1995,Production,M,54290.3916
+1995,Production,F,50566.1762
+1995,Quality Management,M,51754.5975
+1995,Quality Management,F,48281.3919
+1995,Research,M,53958.699
+1995,Research,F,50250.8489
+1995,Sales,M,75242.9465
+1995,Sales,F,72522.0493
+1996,Customer Service,M,52044.3669
+1996,Customer Service,F,50104.7484
+1996,Development,M,54716.017
+1996,Development,F,49993.0096
+1996,Finance,M,64973.9481
+1996,Finance,F,63601.3799
+1996,Human Resources,M,48787.9262
+1996,Human Resources,F,47787.9054
+1996,Marketing,M,65153.4177
+1996,Marketing,F,62181.0166
+1996,Production,M,52875.626
+1996,Production,F,50617.6017
+1996,Quality Management,M,51069.015
+1996,Quality Management,F,47823.1426
+1996,Research,M,54382.783
+1996,Research,F,51777.5325
+1996,Sales,M,74686.6439
+1996,Sales,F,71751.2952
+1997,Customer Service,M,52861.7143
+1997,Customer Service,F,54297.4556
+1997,Development,M,54195.2777
+1997,Development,F,47890.5495
+1997,Finance,M,63503.5485
+1997,Finance,F,60165.4387
+1997,Human Resources,M,50352.0876
+1997,Human Resources,F,45715.0435
+1997,Marketing,M,69030.6319
+1997,Marketing,F,59649.0468
+1997,Production,M,53701.7579
+1997,Production,F,49739
+1997,Quality Management,M,51779.6082
+1997,Quality Management,F,50191.0706
+1997,Research,M,56442.591
+1997,Research,F,48924.2393
+1997,Sales,M,72508.9959
+1997,Sales,F,69347.4015
+1998,Customer Service,M,53550.0885
+1998,Customer Service,F,49499.9847
+1998,Development,M,52458.0853
+1998,Development,F,47735.0213
+1998,Finance,M,66675.4268
+1998,Finance,F,63829.6733
+1998,Human Resources,M,49059.0305
+1998,Human Resources,F,46244.3382
+1998,Marketing,M,67996.3655
+1998,Marketing,F,61708.5301
+1998,Production,M,53511.9121
+1998,Production,F,48276.2083
+1998,Quality Management,M,52259.2298
+1998,Quality Management,F,46221.8012
+1998,Research,M,53331.3429
+1998,Research,F,50040.1837
+1998,Sales,M,76006.2129
+1998,Sales,F,69688.829
+1999,Customer Service,M,48909.2364
+1999,Customer Service,F,43777.0698
+1999,Development,M,52243.5831
+1999,Development,F,44747.6355
+1999,Finance,M,62456.1184
+1999,Finance,F,61645.0426
+1999,Human Resources,M,48000.525
+1999,Human Resources,F,55224.5273
+1999,Marketing,M,62222.7692
+1999,Marketing,F,63770.2143
+1999,Production,M,51202.0921
+1999,Production,F,44949.4875
+1999,Quality Management,M,49605.0492
+1999,Quality Management,F,49314.85
+1999,Research,M,51863.0179
+1999,Research,F,50416.3846
+1999,Sales,M,75299.1385
+1999,Sales,F,71996.8
+2000,Customer Service,M,93051
+2000,Customer Service,F,59562.5
+2000,Finance,M,91470.6667
+2000,Human Resources,M,48601
+2000,Human Resources,F,59125.3333
+2000,Marketing,F,60243.5
+2000,Production,M,64783.3333
+2000,Sales,F,66539

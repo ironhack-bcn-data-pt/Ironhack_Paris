@@ -1,0 +1,103 @@
+﻿working_year,dept_name,gender,count(e.emp_no)
+1,1991,Customer Service,M
+2,1991,Customer Service,F
+1,1991,Development,M
+1,1991,Finance,M
+1,1991,Finance,F
+2,1991,Marketing,M
+2,1991,Production,M
+1,1991,Production,F
+2,1991,Quality Management,M
+1,1991,Research,F
+3,1991,Sales,M
+1,1991,Sales,F
+2,1992,Customer Service,M
+1,1992,Development,M
+2,1992,Development,F
+1,1992,Human Resources,M
+2,1992,Human Resources,F
+1,1992,Marketing,F
+1,1992,Production,M
+1,1992,Production,F
+2,1992,Quality Management,F
+1,1992,Research,M
+3,1992,Sales,M
+2,1993,Customer Service,F
+1,1993,Development,M
+2,1993,Finance,M
+1,1993,Finance,F
+1,1993,Human Resources,M
+1,1993,Human Resources,F
+1,1993,Marketing,M
+2,1993,Marketing,F
+2,1993,Production,M
+1,1993,Quality Management,M
+3,1993,Quality Management,F
+1,1993,Research,M
+1,1993,Research,F
+1,1993,Sales,M
+1,1993,Sales,F
+1,1994,Customer Service,M
+2,1994,Customer Service,F
+1,1994,Development,M
+1,1994,Development,F
+1,1994,Finance,M
+1,1994,Human Resources,M
+1,1994,Human Resources,F
+1,1994,Marketing,M
+2,1994,Production,M
+3,1994,Quality Management,M
+1,1994,Quality Management,F
+1,1994,Research,M
+1,1994,Research,F
+2,1994,Sales,M
+1,1995,Customer Service,M
+1,1995,Customer Service,F
+1,1995,Development,M
+1,1995,Development,F
+1,1995,Finance,M
+2,1995,Finance,F
+2,1995,Human Resources,M
+2,1995,Marketing,M
+1,1995,Marketing,F
+1,1995,Production,F
+1,1995,Quality Management,M
+1,1995,Quality Management,F
+1,1995,Research,M
+2,1995,Sales,M
+1,1995,Sales,F
+2,1996,Customer Service,M
+1,1996,Finance,M
+1,1996,Human Resources,M
+1,1996,Marketing,F
+1,1996,Production,M
+1,1996,Quality Management,F
+1,1996,Research,M
+1,1996,Research,F
+1,1996,Sales,M
+1,1997,Customer Service,M
+1,1997,Customer Service,F
+1,1997,Development,F
+2,1997,Finance,M
+2,1997,Human Resources,M
+1,1997,Marketing,M
+2,1997,Research,M
+1,1997,Sales,F
+1,1998,Customer Service,M
+1,1998,Development,F
+1,1998,Finance,M
+1,1998,Marketing,F
+1,1998,Production,M
+1,1998,Quality Management,M
+2,1999,Customer Service,F
+1,1999,Development,M
+1,1999,Development,F
+1,1999,Finance,M
+1,1999,Marketing,M
+1,1999,Research,F
+1,1999,Sales,M
+1,2000,Customer Service,M
+1,2000,Customer Service,F
+1,2000,Finance,M
+1,2000,Human Resources,F
+1,2000,Sales,F
